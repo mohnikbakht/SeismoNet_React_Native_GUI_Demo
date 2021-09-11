@@ -1,1 +1,5 @@
-# React_Native_Phone_App
+# React Native Phone App
+
+We developed a mobile phone app that enables easier interface with the wearable patches for the user. The app is coded in React-Native. We chose React-Native to build a cross-platform native app for both iOS and Android. 
+
+# Demo
